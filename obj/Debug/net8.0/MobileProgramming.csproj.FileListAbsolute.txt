@@ -1,0 +1,14 @@
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\bin\Debug\net8.0\MobileProgramming.exe
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\bin\Debug\net8.0\MobileProgramming.deps.json
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\bin\Debug\net8.0\MobileProgramming.runtimeconfig.json
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\bin\Debug\net8.0\MobileProgramming.dll
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\bin\Debug\net8.0\MobileProgramming.pdb
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.AssemblyInfoInputs.cache
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.AssemblyInfo.cs
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.csproj.CoreCompileInputs.cache
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.dll
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\refint\MobileProgramming.dll
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.pdb
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\MobileProgramming.genruntimeconfig.cache
+C:\Users\egeka\OneDrive\Documents\GitHub\MobileProgramming\MobileProgramming\obj\Debug\net8.0\ref\MobileProgramming.dll
